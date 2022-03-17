@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity^0.7.0;
+pragma solidity^0.8.0;
 
 library SafeMath {
     function sub(uint256 a, uint256 b) internal pure returns (uint256) {
