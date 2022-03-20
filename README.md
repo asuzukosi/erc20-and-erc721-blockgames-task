@@ -16,7 +16,7 @@ The Bored Doggos Yatch Club NFT (BDYC) solidity program is an implementaiton of 
 
 The address for the contract is
 
-https://rinkeby.etherscan.io/address/0x67907cc79f4d33a84a07ca9fddcb46e5a6dfc60e
+https://rinkeby.etherscan.io/address/0x3ce53142bfadc85246d3c33fb230f850e09f328
 
 I have minted 2 NFT bored doggos for the Bored Doggos Yatch Club
 
