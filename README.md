@@ -16,7 +16,7 @@ The Bored Doggos Yatch Club NFT (BDYC) solidity program is an implementaiton of 
 
 The address for the contract is
 
-https://rinkeby.etherscan.io/address/0x3ce53142bfadc85246d3c33fb230f850e09f328
+https://rinkeby.etherscan.io/address/0x1de4ed2b5c256afc4019d5a247d488a49299fdaf
 
 I have minted 2 NFT bored doggos for the Bored Doggos Yatch Club
 
@@ -28,7 +28,7 @@ The first has the token id of 0 and has the metadata of :
     description: "It's a white dog that leans on the brown floor, he is so bored"
 }
 
-The transaction for the minting on this token can be viewed at https://rinkeby.etherscan.io/tx/0x4f68c59da4b71626be493d5990fa114d6aebaa314e1153a8c6c8c9e30a7bb9c9
+The transaction for the minting on this token can be viewed at https://rinkeby.etherscan.io/tx/0x3e66e617976ea69bebf2501019ba660b4a979121e0a5a35b41826e04ec012ddb
 
 
 The first has the token id of 1 and has the metadata of :
@@ -39,5 +39,6 @@ The first has the token id of 1 and has the metadata of :
     description: "This is a very bored brown doggo leaning on a human hand on its chin, the human hand is wearing a brown long sleeve sweater, the doggo also has some white parts the doggo is very very bored"
 }
 
-The transaction for the minting on this token can be viewed at https://rinkeby.etherscan.io/tx/0xe5f6c261a5a9d72b287fd4f8be80a508fd85d8a1f42c92c43ff7718cdf534f36
+The transaction for the minting on this token can be viewed at 
+https://rinkeby.etherscan.io/tx/0x3e66e617976ea69bebf2501019ba660b4a979121e0a5a35b41826e04ec012ddb
 
