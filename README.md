@@ -4,8 +4,7 @@ The KosiToken solidity program is an implementaiton of the ERC20 standard token 
 
 The address for the contract is
 
-
-https://rinkeby.etherscan.io/address/0xEB9164c022695a17F4CA065124C16Ef149C4261b
+https://rinkeby.etherscan.io/address/0x2e8836663891e0acce66bfa5883eb2f8975238e8
 
 
 ###########################################################################################
